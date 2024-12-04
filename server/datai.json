@@ -1,0 +1,13 @@
+{
+    "username": "arpit2@gmail.com",
+    "password": "$2b$10$.LXUWsF3zBUl2B2a9JDBueeta.N2BVtSwlXBkM3URTdv5bgXcVyAC",
+    "firstname": "Arpit2",
+    "lastname": "Chauhan2",
+    "isAdmin": false,
+    "followers": [],
+    "following": [],
+    "_id": "672fcd0381e4030efbb983b3",
+    "createdAt": "2024-11-09T20:58:43.165Z",
+    "updatedAt": "2024-11-09T20:58:43.165Z",
+    "__v": 0
+  }
