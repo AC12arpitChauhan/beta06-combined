@@ -1,4 +1,4 @@
-import PostModel from "../Models/postModel.js";
+import PostModel from "../models/postModel.js";
 import mongoose from "mongoose";
 import UserModel from "../models/UserModel.js";
 
