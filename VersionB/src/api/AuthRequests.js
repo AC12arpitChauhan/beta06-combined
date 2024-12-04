@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 
-const API = axios.create({ baseURL: 'https://beta06-combined.vercel.app/?vercelToolbarCode=N8Mb4XQw0_zmDpN' });
+const API = axios.create({ baseURL: 'http://localhost:4000' });
 
 export const logIn= (formData)=> API.post('/auth/login',formData);
 
