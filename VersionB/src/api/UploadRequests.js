@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({ baseURL: "http://localhost:4000" });
+const API = axios.create({ baseURL: "https://beta06-combined.vercel.app/?vercelToolbarCode=N8Mb4XQw0_zmDpN" });
 
 API.interceptors.request.use((req) => {
   if (localStorage.getItem("profile")) {
